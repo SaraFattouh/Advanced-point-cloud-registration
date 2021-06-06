@@ -30,4 +30,4 @@ Parts of the program:
   - The results.txt file contains the rotation error, translation error and execution times for each execution.
 
 
-![alt text] (https://github.com/SaraFattouh/Advanced-point-cloud-registration/blob/main/ICP.png) 
+![plot](https://github.com/SaraFattouh/Advanced-point-cloud-registration/blob/main/ICP.png) 
