@@ -1,0 +1,76 @@
+a_1:
+    ICP:
+    Rotation error: 0.509669
+    Translation error: 2.88727
+    ICP runtime: 27.4923 seconds.
+
+    TrICP:
+    Rotation error: 0.767668
+    Translation error: 1.5343
+    TrICP runtime: 38.2633 seconds.
+
+a_2:
+    ICP:
+    Rotation error: 2.57234
+    Translation error: 2.78996
+    ICP runtime: 48.7958 seconds.
+
+    TrICP:
+    Rotation error: 0.583802
+    Translation error: 1.18563
+    TrICP runtime: 35.0204 seconds.
+
+a_3:
+    ICP:
+    Rotation error: 0.35638
+    Translation error: 3.00079
+    ICP runtime: 45.4056 seconds.
+
+    TrICP:
+    Rotation error: 0.124503
+    Translation error: 0.699446
+    TrICP runtime: 10.4882 seconds.
+
+a_4:
+    ICP:
+    Rotation error: 0.384273
+    Translation error: 3.01454
+    ICP runtime: 25.0761 seconds.
+
+    TrICP:
+    Rotation error: 0.189214
+    Translation error: 1.19553
+    TrICP runtime: 12.629 seconds.
+
+a_5:
+    ICP:
+    Rotation error: 0.2772
+    Translation error: 3.01004
+    ICP runtime: 30.3469 seconds.
+
+    TrICP:
+    Rotation error: 1.57252
+    Translation error: 3.14814
+    TrICP runtime: 34.628 seconds.
+
+a_5 with noise (0.05 stddev):
+    ICP:
+    Rotation error: 0.4748
+    Translation error: 2.99524
+    ICP runtime: 26.3896 seconds.
+
+    TrICP:
+    Rotation error: 0.0405573
+    Translation error: 1.98966
+    TrICP runtime: 26.1536 seconds.
+
+a_3 with noise (0.01 stddev):
+    ICP:
+    Rotation error: 0.357185
+    Translation error: 3.00805
+    ICP runtime: 45.9895 seconds.
+
+    TrICP:
+    Rotation error: 0.123758
+    Translation error: 0.695312
+    TrICP runtime: 9.89889 seconds.
