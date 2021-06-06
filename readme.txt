@@ -25,3 +25,6 @@ Parts of the program:
     - {output_filename}_data_TrICP.xyz
     - {output_filename}_model_TrICP.xyz
   - The results.txt file contains the rotation error, translation error and execution times for each execution.
+  
+  
+![Iterated Closest Point method vs the robust Trimmed-ICP](<img width="644" alt="ICP+" src="https://user-images.githubusercontent.com/31407456/120916838-26a5b280-c6ac-11eb-944c-1b7c71d9b60f.png">)
