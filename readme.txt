@@ -1,3 +1,5 @@
+# Advanced Point Cloud Registration
+
 Parts of the program:
 - The main program implementing the ICP and TrICP is the main.cpp file. There is a CMakeLists.txt file for compilation.
   - It takes, as the first argument, the data pointcloud
