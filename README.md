@@ -1,4 +1,4 @@
-# Advanced-point Cloud Registration
+# Advanced Point Cloud Registration
 A robust approach to Iterated Closest Point (ICP) point cloud registration.
 
 Parts of the program:
